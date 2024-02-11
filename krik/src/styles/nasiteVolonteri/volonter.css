@@ -1,0 +1,44 @@
+.volunteerPage {
+  margin: 336px 0 200px;
+  padding: 0 200px;
+}
+.volunteerCard {
+  height: 30%;
+  border: 2px solid black;
+}
+.volunteerCardImg {
+  width: 45%;
+  background-position: center;
+  background-size: cover;
+}
+.volunteerCardDes {
+  width: 55%;
+  padding: 96px 120px 98px 76px;
+}
+.isDoneBtn {
+  border: 2px solid black;
+  width: 233px;
+}
+.v-projectCardGap {
+  margin: 40px 6px 50px 0;
+}
+.v-projects {
+  overflow-x: hidden;
+  margin-top: 40px;
+}
+.participating {
+  margin-top: 184px;
+}
+@media (max-width: 1440px) {
+  .volunteerCardDes {
+    padding: 46px 50px 48px 50px;
+  }
+  .voluteerName {
+    line-height: 62px;
+    font-size: 2.875rem;
+  }
+  .volonteerDec {
+    line-height: 32px;
+    font-size: 1rem;
+  }
+}

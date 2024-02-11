@@ -1,0 +1,28 @@
+.hero {
+  margin-top: 74px;
+  height: 1115px;
+  background-image: url(../../../public/images/HomePage/herosection.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.hero-title {
+  padding-top: 190px;
+  width: 746px;
+  height: 334px;
+  margin-bottom: 112px;
+}
+.hero-content {
+  width: 484px;
+}
+.hero-btn {
+  width: 451px;
+  height: 64px;
+  margin: 40px 0 0 0;
+}
+.hero-btn:hover {
+  background-color: #ac9ede;
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+}
+.hero-link:hover {
+  color: black;
+}

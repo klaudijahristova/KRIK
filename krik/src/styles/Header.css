@@ -1,0 +1,139 @@
+/* .....................Header-Top..................... */
+
+.header-top {
+  height: 56px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3) !important;
+}
+.newsletter {
+  margin-left: 200px;
+}
+.newsletter:hover {
+  color: #fbb13c;
+}
+.header-search {
+  width: 233px;
+  height: 38px;
+  margin-left: 93px;
+  border-radius: 30px;
+  border: 3px solid #ffffff;
+}
+
+.header-search::placeholder {
+  padding: 8px 0px 8px 0px;
+}
+.header-search:hover{
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.top-nav {
+  list-style-type: none;
+  margin-right: 200px;
+}
+.top-nav li:hover,
+#eShop:hover {
+  color: #fbb13c;
+}
+.top-nav li:first-child {
+  margin-right: 73px;
+}
+@media only screen and (max-width:1096px) {
+  .newsletter {
+    margin-left: 100px;
+  }
+  .top-nav {
+    margin-right: 100px;
+  }
+  .header-search {
+    width: 133px;
+    height: 38px;
+    margin-left: 53px;
+    border-radius: 30px;
+    border: 3px solid #ffffff;
+  }
+}
+@media (max-width:991px){
+  .newsletter {
+    display: none;
+  }
+  .top-nav li{
+    display: none;
+  }
+  .header-search {
+    display: none;
+  }
+}
+/* .....................Header-Bottom..................... */
+
+.header-bottom {
+  height: 96px;
+  z-index: -1;
+}
+.logo {
+  margin-left: 199px;
+}
+.bottom-nav {
+  list-style-type: none;
+  margin-right: 199px;
+}
+.dropdown {
+  list-style-type: none;
+  border-radius: 25px;
+  width: 123.94px;
+  height: 190px;
+  top: 0px;
+  left: 0px;
+}
+.arrow-black {
+  display: none;
+}
+.zaNas:hover {
+  border-radius: 25px;
+}
+.zaNas:hover:not(.active) {
+  border: 2px solid #191919;
+}
+.zaNas:hover .arrow-black {
+  display: inline-block;
+}
+.dropdown-navlink {
+  margin-top: 10px;
+}
+.nav-btn,
+.zaNas {
+  width: 123.94px;
+  height: 40px;
+  border: 2px solid inherit;
+  border-radius: 25px;
+}
+.nav-btn:hover {
+  border: 2px solid #191919;
+}
+.doniraj {
+  width: 104.95px !important;
+  height: 40px !important;
+  border-radius: 30px !important;
+  border: none !important;
+}
+.doniraj-link{
+  color: #ffffff;
+}
+.doniraj-link:hover{
+  color: #191919;
+}
+.doniraj:hover {
+  background-color: #ac9ede !important;
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+  color: #191919;
+}
+.links:hover {
+  color: #191919;
+}
+@media only screen and (max-width:1096px){
+  .logo {
+    margin-left: 100px;
+  }
+}
+@media (max-width:991px){
+  .logo {
+    margin-left: 5px;
+  }
+}

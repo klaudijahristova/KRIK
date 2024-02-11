@@ -1,0 +1,149 @@
+body {
+  height: 100%;
+  background-color: #fbf8f4;
+}
+
+/* .....................................Colors....................................................... */
+.custom-color-01 {
+  color: #ffffff;
+}
+.custom-color-02 {
+  color: #191919;
+}
+.custom-color-03 {
+  color: #fbb13c;
+}
+.custom-color-04 {
+  color: #fb5e3c;
+}
+/* .....................................BG-Colors....................................................... */
+.custom-bg-color-01 {
+  background-color: #191919;
+}
+.custom-bg-color-02 {
+  background-color: #fbb13c;
+}
+.custom-bg-color-03 {
+  background-color: #b8afda;
+}
+.custom-bg-color-04 {
+  background-color: #fbf8f4;
+}
+.custom-bg-color-05 {
+  background-color: #fb5e3c;
+}
+.custom-bg-color-06 {
+  background-color: #ffffff;
+}
+/* .....................................Font-Family....................................................... */
+
+.mulish {
+  font-family: "Mulish", sans-serif;
+}
+.Montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+.Raleway {
+  font-family: "Raleway";
+}
+
+/* .....................................Font-Size....................................................... */
+.fs-200 {
+  font-size: 200px;
+}
+.fs-150 {
+  font-size: 150px;
+}
+.fs-80 {
+  font-size: 80px;
+}
+.fs-56 {
+  font-size: 3.5rem;
+}
+.fs-48 {
+  font-size: 3rem;
+}
+.fs-32 {
+  font-size: 2rem;
+}
+.fs-24 {
+  font-size: 1.5rem;
+}
+.fs-20 {
+  font-size: 1.25rem;
+}
+.fs-16 {
+  font-size: 1rem;
+}
+/* .....................................Font-Weight....................................................... */
+.fw-normal {
+  font-weight: normal !important;
+}
+.fw-400 {
+  font-weight: 400 !important;
+}
+.fw-500 {
+  font-weight: 500 !important;
+}
+.fw-600 {
+  font-weight: 600 !important;
+}
+.fw-700 {
+  font-weight: 700 !important;
+}
+.fw-800 {
+  font-weight: 800 !important;
+}
+.fw-bolder {
+  font-weight: bolder !important;
+}
+/* .....................................Line-Height....................................................... */
+.lh-140 {
+  line-height: 140px;
+}
+.lh-72 {
+  line-height: 72px;
+}
+.lh-64 {
+  line-height: 64px;
+}
+.lh-48 {
+  line-height: 48px;
+}
+.lh-40 {
+  line-height: 40px;
+}
+.lh-34 {
+  line-height: 34px;
+}
+.lh-32 {
+  line-height: 32px;
+}
+.lh-24 {
+  line-height: 24px;
+}
+.lh-20 {
+  line-height: 20px;
+}
+/* .....................................Border-Radius....................................................... */
+.r-30 {
+  border-radius: 30px;
+}
+.r-40 {
+  border-radius: 40px;
+}
+.r-20 {
+  border-radius: 20px;
+}
+.r-100 {
+  border-radius: 100px;
+}
+.r-200 {
+  border-radius: 200px;
+}
+/* .....................................Background....................................................... */
+.cover {
+  background-size: cover;
+  background-position: center;
+}
+

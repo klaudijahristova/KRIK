@@ -1,0 +1,106 @@
+.prijava {
+  padding: 312px 328.5px 199px;
+}
+.naslov-volontiraj {
+  margin-bottom: 112px;
+}
+.formAplication {
+  padding: 88px 128.5px;
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.1));
+}
+.inputWrapper:not(:last-child) {
+  margin-bottom: 16px;
+}
+.inputAplication {
+  padding: 10px 30px;
+  border: 2px solid black;
+  height: 64px;
+}
+.inputAplication:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+.inputAplication::placeholder {
+  font-family: "Mulish";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  color: #cac6c6;
+}
+.vozrast {
+  margin-bottom: 8px;
+}
+.aplicationLabel {
+  margin-bottom: 8px;
+}
+.ageBtn {
+  height: 64px;
+  padding: 16px 13px;
+  border: 2px solid black;
+}
+.ageBtn:hover,
+.volunteerInterestBtn:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+.darkBtn,
+.darkBtn:hover {
+  background-color: #191919;
+  color: #fff;
+}
+.ageBtnWrapper {
+  margin-bottom: 54px;
+}
+.InterestBtn-title {
+  margin: 16px 0 8px;
+}
+.volunteerInterestBtn {
+  width: 47%;
+  height: 64px;
+  padding: 16px 13px;
+  border: 2px solid black;
+  margin-bottom: 16px;
+}
+.PrijaviSeBtn {
+  padding: 10px 30px;
+  margin-top: 96px;
+  height: 64px;
+}
+.PrijaviSeBtn:hover {
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+  background-color: #fb5e3c;
+}
+input[type="range"] {
+  -webkit-appearance: none;
+  border: 2px solid black;
+  border-radius: 30px;
+  height: 20px;
+  width: 100%;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid black;
+}
+input[type="range"]::-moz-progress-bar {
+  background: #fbb13c;
+}
+
+@media (max-width: 1551px) {
+  .inputAplication::placeholder {
+    font-size: 20px;
+  }
+  .ageBtn {
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+  }
+  .volunteerInterestBtn {
+    font-size: 12px;
+    height: 48px;
+  }
+  .InterestBtn-title {
+    font-size: 18px;
+  }
+}

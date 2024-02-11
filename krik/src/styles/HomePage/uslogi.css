@@ -1,0 +1,33 @@
+.uslogi {
+  padding: 0 200px;
+}
+.uslogi-naslov {
+  margin-bottom: 52px;
+}
+.hp-uslogiImg {
+  mix-blend-mode: luminosity;
+  background-image: url("../../../public/images/projects/Frame283.png");
+  background-position: left;
+  background-size: cover;
+}
+.serviceCard {
+  border-bottom: 2px solid black;
+  margin-bottom: 19px;
+}
+.u-content-title {
+  width: 100%;
+}
+.u-arrow {
+  width: 51px;
+  height: 51px;
+}
+.u-arrow:hover {
+  background-color: #fb5e3c;
+}
+.u-arrow > div img {
+  width: 27.81px;
+  height: 28px;
+}
+.u-decription {
+  width: 70%;
+}

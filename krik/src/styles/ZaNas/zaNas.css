@@ -1,0 +1,98 @@
+.info-krik {
+  padding: 360px 201px 102px 201px;
+  max-height: 100%;
+}
+.info-img {
+  mix-blend-mode: luminosity;
+ object-fit: cover;
+ width: 100%;
+ height: 100%;
+ background-size: cover;
+ background-position:center;
+}
+.info-content {
+padding: 20px 0 0 40px;
+}
+.info-content p:first-child {
+  margin-bottom: 33px;
+}
+
+.zaKrik-content div:first-child {
+  border-top: 2px solid #191919;
+}
+.zaKrikRow {
+  border-bottom: 2px solid #191919;
+  padding: 40px 0;
+}
+.zaKrik-title {
+  padding-bottom: 40px;
+}
+.zaKrik-title,
+.zaKrikRow-title {
+  margin-left: 200px;
+  width: 21%;
+}
+.zaKrikRow-text {
+  width: 79%;
+  margin-right: 200px;
+  padding-left: 24px;
+}
+.za-Krik {
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+.accordion-button::after {
+  display: none;
+}
+.prasanja-title {
+  padding: 180px 0 40px 200px;
+}
+.accordionWrapper{
+  padding-bottom: 200px;
+}
+.accordions {
+  padding: 0 200px;
+  margin-bottom: 30px;
+  --bs-accordion-border-radius: 40px;
+  --bs-accordion-inner-border-radius: calc(40px - 1px);
+  --bs-accordion-btn-focus-border-color: none;
+  --bs-accordion-btn-focus-box-shadow: none;
+  --bs-accordion-body-padding-x: none;
+  --bs-accordion-body-padding-y: none;
+  --bs-accordion-active-color: #191919;
+  --bs-accordion-active-bg: #b8afda;
+}
+.accordion-item{
+  height: 100%;
+}
+.accordion-header > button:hover {
+  background-color: #b8afda;
+}
+.accordion-header > button {
+  height: 130px;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  font-family: "Mulish";
+  border: none;
+  --bs-accordion-btn-padding-x: 50px;
+  --bs-accordion-btn-padding-y: 0px;
+  --bs-accordion-border-width: none;
+}
+.accordion-collapse {
+  width: 100%;
+ height: 100%;
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  background-color: #b8afda;
+}
+.accordion-body {
+  width: 100%;
+
+  padding: 0 150px 50px 50px;
+}
+.accordion-item {
+  background-color: #b8afda;
+}

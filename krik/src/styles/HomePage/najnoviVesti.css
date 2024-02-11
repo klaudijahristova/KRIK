@@ -1,0 +1,86 @@
+.najnoviVesti {
+  margin-bottom: 280px;
+}
+.projectCard,
+.project-img {
+  width: 491px;
+  height: 464px;
+}
+.projectCard:first-child {
+  margin-left: 178px;
+}
+.projectCardGap {
+  margin: 30px 100px 80px 0px;
+}
+.project-img {
+  object-fit: cover;
+  z-index: 1;
+  filter: brightness(0.7);
+}
+.z-2 {
+  z-index: 2;
+}
+.vest-naslov {
+  width: 618px;
+  height: 72px;
+  margin-left: 177px;
+}
+.activnost-naslov {
+  height: 26px;
+  padding: 3px 9px !important;
+  margin-right: 18px;
+  margin-bottom: 16px;
+}
+.projectCard-content {
+  height: 162px;
+  padding: 10px;
+  margin: 290px 18px 0;
+}
+.project-date {
+  height: 24px;
+}
+.p-date {
+  margin-top: 2px;
+}
+.project-decription {
+  width: 360px;
+  height: 48px;
+  margin-top: 5px;
+}
+.c-hover:hover {
+  color: white;
+}
+.cardsWrapper {
+  overflow-x: hidden;
+}
+.customScrollbar {
+  position: absolute;
+  width: 25%;
+  height: 10px;
+  background: #fb5e3c;
+  border-radius: 30px;
+  cursor: pointer;
+  z-index: 3;
+  left: 200px;
+  right: auto;
+}
+.additionalDiv {
+  position: absolute;
+  width: 78%;
+  border-bottom: 1px solid black;
+  z-index: 2;
+  left: 200px;
+  right: 200px;
+}
+.zaMesec {
+  width: 361px;
+  height: 64px;
+  right: 200px;
+  top: 730px;
+  padding: 16px, 30px, 16px, 30px;
+}
+.zaMesec:hover {
+  color: #191919;
+  background-color: #ac9ede;
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+}

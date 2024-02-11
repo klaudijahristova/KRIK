@@ -1,0 +1,30 @@
+.servicess {
+  padding: 0 200px;
+  margin: 338px 0 200px;
+}
+.servicesBtn {
+  padding: 0 140px;
+  margin-bottom: 100px;
+}
+.filterBtn {
+  cursor: pointer;
+}
+.scroll-line {
+  width: 100%;
+  height: 2px;
+  margin-bottom: 50px;
+  margin-top: 16px;
+}
+.activeFilter {
+  bottom: -22px;
+  left: 0;
+  height: 10px;
+  width: 100%;
+  border-radius: 10px;
+}
+.services-title {
+  margin-bottom: 32px;
+}
+.galery-title {
+  margin: 144px 0 32px;
+}

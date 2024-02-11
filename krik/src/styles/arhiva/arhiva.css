@@ -1,0 +1,42 @@
+.arhiva {
+  padding: 262px 200px 200px 204px;
+}
+.allDocuments {
+  margin: 43px 0 0;
+}
+.year-title {
+  margin-bottom: 77px;
+}
+.documendCardCol {
+  box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.1);
+  height: 316px;
+  padding: 30px;
+  width: 23%;
+  margin-right: 20px;
+}
+.DownloadIcon {
+  background-image: url(../../../public/images/arhiva/Rectangle49.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 69px;
+  width: 70px;
+  bottom: 0;
+  right: 0;
+}
+.DownloadIcon:hover {
+  background-image: url(../../../public/images/arhiva/Rectangle49hover.svg);
+}
+.showAllWrapper {
+  margin: 65px 0 30px;
+  padding-right: 50px;
+}
+.showAll {
+  width: 24%;
+  height: 64px;
+  padding: 16px 30px;
+}
+.showAll:hover {
+  background-color: #ac9ede;
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+  cursor: pointer;
+}

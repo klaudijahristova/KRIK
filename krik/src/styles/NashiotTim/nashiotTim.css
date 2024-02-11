@@ -1,0 +1,115 @@
+.nashiotTim {
+  margin-top: 300px;
+}
+.nashiotTim-title {
+  padding-bottom: 50px;
+}
+.teamMemberPage {
+  padding: 296px 200px 200px;
+}
+.member-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.m-24 {
+  margin-top: 24px;
+}
+.activeMember {
+  transform: none;
+  order: 2;
+  top: 30px;
+  position: absolute;
+  display: block;
+  width: 40%;
+  height: 100%;
+  max-width: 748px;
+  min-width: 400px;
+  padding-bottom: 100px;
+}
+.prev {
+  transform: translate(195%, 0) scale(0.8);
+  order: 0;
+  padding-left: 24px;
+}
+.next {
+  transform: translate(-195%, 0) scale(0.8);
+  order: 1;
+  padding-right: 24px;
+}
+.prev,
+.next {
+  width: 20%;
+  height: 632px;
+  margin-top: 110px;
+  text-align: start;
+  max-width: 362px;
+  min-width: 260px;
+}
+.activeMember .member-img {
+  width: 100%;
+  height: 632px;
+  object-fit: cover;
+}
+.prev img,
+.next img {
+  object-fit: cover;
+  width: 100%;
+  height: 362px;
+}
+.member-link:hover {
+  color: #191919;
+}
+.prevBtn,
+.nextBtn {
+  padding: 23px 30px;
+  border: none;
+}
+.prevBtn {
+  margin-right: 22px;
+}
+.prevBtn:hover,
+.nextBtn:hover {
+  background-color: #fbb13c;
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+}
+.LB {
+  width: 234px;
+  height: 64px;
+  padding: 10px 30px;
+}
+.LB:hover {
+  background-color: #ff4f28;
+  box-shadow: inset 0px -3px 0px rgba(25, 25, 25, 0.5);
+}
+.linkedInBtn:hover {
+  color: #fff;
+}
+.odbor-naslov {
+  margin: 0 0 56px 0;
+  padding: 344px 0 56px;
+}
+
+.odbor {
+  border-top: 2px solid black;
+}
+.celenNaOdborot {
+  border-bottom: 2px solid black;
+}
+.celenNaOdborot:hover {
+  color: #191919;
+}
+.odborGap {
+  margin: 56px 0;
+}
+.clen-pozicija {
+  margin-bottom: 40px;
+}
+.clen-img {
+  width: 23%;
+  height: 23%;
+}
+.clen-text {
+  width: 23%;
+  height: 23%;
+}

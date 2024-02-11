@@ -1,0 +1,123 @@
+.projects {
+  padding: 0 200px 200px 200px;
+  margin-top: 240px;
+}
+.projectsImages {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.tp-1 {
+  height: 736px;
+}
+.tp1-Name {
+  height: 134px;
+  border-radius: 30px 30px 0 0;
+}
+.tp-2 {
+  width: 95%;
+  height: 348px;
+}
+.tp2-Name {
+  height: 74px;
+  border-radius: 30px 30px 0 0;
+  top: 0;
+}
+.tp-3 {
+  height: 362px;
+  width: 48%;
+}
+.tp3-Name {
+  height: 74px;
+  border-radius: 30px 30px 0 0;
+}
+.tp4-Name {
+  height: 74px;
+  border-radius: 0px 0px 30px 30px;
+  bottom: 0;
+}
+.zp-1 {
+  height: 709px;
+  width: 48%;
+}
+.zp1-Name {
+  height: 74px;
+  border-radius: 30px 30px 0 0;
+}
+.zp-2,
+.zp-3 {
+  height: 350px;
+}
+.zp2-Name {
+  height: 70.94px;
+  bottom: 0;
+  border-radius: 0px 0px 30px 30px;
+}
+.zp3-Name {
+  height: 70.94px;
+  border-radius: 30px 30px 0 0;
+}
+.zp-4 {
+  height: 710px;
+}
+.zp4-Name {
+  border-radius: 0px 0px 30px 30px;
+  bottom: 0;
+  height: 134px;
+}
+.w-48 {
+  width: 47%;
+}
+.zp-5 {
+  height: 746px;
+}
+.zp-6 {
+  width: 98%;
+  height: 362px;
+}
+.zp6-Name {
+  height: 70px;
+  bottom: 0;
+  border-radius: 0px 0px 30px 30px;
+}
+.zp-7 {
+  height: 360px;
+}
+.zp7-Name {
+  height: 70px;
+  border-radius: 30px 30px 0 0;
+}
+.tekovni-naslov {
+  margin: 114px 0 56px 0;
+}
+.tekovni-row {
+  margin-bottom: 64px;
+}
+.zavrsni-naslov {
+  margin: 160px 0 54px 0;
+}
+.zavrseni-row {
+  margin-bottom: 14px;
+}
+.css-1ba2zw7-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 48px;
+  font-family: "mulish";
+  background-color: inherit;
+}
+.css-1ba2zw7-MuiButtonBase-root-MuiPaginationItem-root.Mui-disabled {
+  display: none;
+}
+.css-tnzq9a-MuiSvgIcon-root-MuiPaginationItem-icon {
+  display: none;
+}
+.css-1ba2zw7-MuiButtonBase-root-MuiPaginationItem-root {
+  font-family: "Montserrat";
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 40px;
+}
+.paginationGap {
+  padding-top: 64px;
+}

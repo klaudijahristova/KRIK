@@ -1,0 +1,31 @@
+.partneri {
+  margin: 135px 0 255px;
+}
+.partneri-title {
+  margin: 0 0 50px 200px;
+}
+.logosWrapper {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 38px 0px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+.partneri-logo {
+  position: absolute;
+  top: 38px;
+  animation: slideRight 30s linear infinite;
+}
+.partneri-logo > img {
+  margin-right: 120px;
+}
+
+@keyframes slideRight {
+  0% {
+    left: -100%;
+  }
+  100% {
+    left: 100%;
+  }
+}

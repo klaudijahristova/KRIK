@@ -1,0 +1,70 @@
+.newsletterPage {
+  padding-top: 152px;
+}
+.HeroNewsletter {
+  padding: 144px 70px 68px 214px;
+}
+.newsletterBilten {
+  -webkit-text-stroke: 3px white;
+  color: transparent;
+  font-style: normal;
+}
+.TimeLine {
+  padding-bottom: 50px;
+}
+.verticalLine {
+  top: 0;
+  left: 0;
+  border-right: 2px solid black;
+}
+.news-links {
+  width: 60%;
+  height: 50%;
+}
+.news-img {
+  width: 60%;
+  max-height: 440px;
+  min-height: 440px;
+  object-fit: cover;
+}
+.timiline-row {
+  padding: 136px 0 0px;
+}
+.regular-text {
+  padding-right: 67px;
+}
+.regular-img {
+  padding: 0 0 152px 141px;
+}
+.reverse-text {
+  text-align: start;
+  padding-left: 67px;
+}
+.reverse-img > .news-links {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 141px 152px 0;
+}
+.reverse-img .news-img {
+  filter: grayscale(100%) brightness(90%);
+}
+.orangeCircle {
+  top: -8px;
+  left: 99px;
+}
+.orangeCircle-reverce {
+  top: -8px;
+  left: -335px;
+}
+.news-contentRev {
+  margin-top: 127px;
+}
+.news-content {
+  margin-top: 67px;
+}
+.toRight {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

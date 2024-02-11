@@ -1,0 +1,28 @@
+<svg width="38" height="39" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="38" height="39" fill="#797979"/>
+<g id="Donation" clip-path="url(#clip0_594_699)">
+<rect width="1920" height="3081" transform="translate(-1413 -851)" fill="#FBF8F4"/>
+<g id="Rectangle 167" filter="url(#filter0_d_594_699)">
+<rect x="-1082" y="-175" width="1262" height="736" rx="40" fill="#FBF8F4"/>
+</g>
+<rect id="Rectangle 192" x="-183" y="-8" width="232" height="54" rx="27" stroke="#191919" stroke-width="2"/>
+<path id="Vector" d="M19 1.00006C9.05888 1.00005 0.999999 9.07728 0.999998 19.041C0.999997 29.0048 9.05887 37.082 19 37.082C28.9411 37.082 37 29.0048 37 19.041C37 9.07728 28.9411 1.00006 19 1.00006Z" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M13 17.0391L19 23.0527L25 17.0391" stroke="#191919" stroke-width="2" stroke-linecap="square"/>
+</g>
+<defs>
+<filter id="filter0_d_594_699" x="-1182" y="-275" width="1472" height="946" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_594_699"/>
+<feOffset dx="5" dy="5"/>
+<feGaussianBlur stdDeviation="50"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_594_699"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_594_699" result="shape"/>
+</filter>
+<clipPath id="clip0_594_699">
+<rect width="1920" height="3081" fill="white" transform="translate(-1413 -851)"/>
+</clipPath>
+</defs>
+</svg>
